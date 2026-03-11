@@ -21,7 +21,7 @@ O objetivo é evitar a redundância de esforços: se você encontrou um problema
 
 ## ✅ Exemplos e Registros
 
-### Erro: Compilador `icpx` não encontrado (Command not found)\
+### Erro: Compilador `icpx` não encontrado (Command not found)
 **Descrição:** Ao tentar compilar um código SYCL, o terminal retorna que o comando `icpx` não existe, mesmo após a instalação do oneAPI Base Toolkit.  \
 **Resolução:** O ambiente do oneAPI não foi inicializado na sessão atual do terminal. Execute o script de variáveis de ambiente:
 ```bash
