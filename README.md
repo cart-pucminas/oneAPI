@@ -37,4 +37,4 @@ Para novos guias, tutoriais ou correções de informações gerais, contribua di
 
 ---
 
-*CArT - Centro de Alto Desempenho e Tecnologia*
+*Computer Architecture and Parallel Processing Team (CArT)*
