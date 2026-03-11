@@ -12,23 +12,22 @@ O objetivo é evitar a redundância de esforços: se você encontrou um problema
 * ## 📝 Sugestão de Modelo (livre)
 
 ### [Título Curto do Problema]
-**Descrição:** Explique o erro ou comportamento inesperado. Se possível, cole o log de erro.
-**Resolução:** Passo a passo do que foi feito para corrigir (comandos, troca de flags, ajustes de código ou ambiente).
-**Data:** Quando ocorreu o problema.
-**Autor:** Nome (opcional) 
-
+**Descrição:** Explique o erro ou comportamento inesperado. Se possível, cole o log de erro.\
+**Resolução:** Passo a passo do que foi feito para corrigir (comandos, troca de flags, ajustes de código ou ambiente).\
+**Data:** Quando ocorreu o problema.\
+**Autor:** Nome (opcional)
 
 ---
 
 ## ✅ Exemplos e Registros
 
-### Erro: Compilador `icpx` não encontrado (Command not found)
-**Descrição:** Ao tentar compilar um código SYCL, o terminal retorna que o comando `icpx` não existe, mesmo após a instalação do oneAPI Base Toolkit.
+### Erro: Compilador `icpx` não encontrado (Command not found)\
+**Descrição:** Ao tentar compilar um código SYCL, o terminal retorna que o comando `icpx` não existe, mesmo após a instalação do oneAPI Base Toolkit.  \
 **Resolução:** O ambiente do oneAPI não foi inicializado na sessão atual do terminal. Execute o script de variáveis de ambiente:
 ```bash
 source /opt/intel/oneapi/setvars.sh
-```
-**Data:**
-**Autor:**
+```  
+**Data:**\
+**Autor:**  
 
 ---
