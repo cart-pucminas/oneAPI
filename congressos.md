@@ -1,6 +1,13 @@
-Evento,Perfil da Comunidade,Foco e Abordagem
-BRACIS,Comunidade voltada para Inteligência Artificial (IA).,"Geralmente possui pouco conhecimento profundo em arquitetura, HPC e sistemas."
-SEMISH,"Amplo, heterogêneo e tradicional.",Aceita contribuições de diversas áreas da computação; perfil mais generalista.
-SBESC,Focado em Sistemas Embarcados.,Grande preocupação com a eficiência e o uso rigoroso de recursos de hardware.
-SSCAD,Voltado estritamente para Desempenho.,O uso de recursos é tratado como um meio (validação) para alcançar a performance máxima.
-WPerformance,Redes e Sistemas Distribuídos.,"Focado em desempenho, mas o uso de recursos não é a prioridade central como no SBESC."
+## Comparativo de Eventos Científicos
+
+| Evento | Perfil da Comunidade | Foco e Abordagem |
+| :--- | :--- | :--- |
+| **BRACIS** | Comunidade voltada para Inteligência Artificial (IA). | Pouco conhecimento em arquitetura, HPC e sistemas. |
+| **SEMISH** | Amplo, heterogêneo e tradicional. | Aceita contribuições de diversas áreas da computação. |
+| **SBESC** | Focado em sistemas embarcados. | Grande preocupação com o uso e eficiência de recursos. |
+| **SSCAD** | Perfil voltado para desempenho. | Uso de recursos visto como meio para validar a performance. |
+| **WPerformance** | Redes e sistemas distribuídos. | Focado em desempenho, sem priorizar tanto o uso de recursos. |
+
+---
+
+> **Nota:** Esta tabela resume o alinhamento de cada evento para facilitar a escolha de onde submeter artigos ou focar pesquisas.
